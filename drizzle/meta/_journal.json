@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1721358817915,
+      "tag": "0000_light_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1721361984696,
+      "tag": "0001_icy_nebula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1721397757430,
+      "tag": "0002_high_champions",
+      "breakpoints": true
+    }
+  ]
+}
